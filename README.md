@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 The following application illustrates the functionalities related to the graphQL and type script integration. It has queries to get books from graphl and REST. To integrate type script with graphl, apollo client library was used.
 
+## 
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
